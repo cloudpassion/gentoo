@@ -1,1 +1,2 @@
 dev-lang/rust rustfmt
+dev-lang/gnat-gpl objc objc++ objc-gc rust

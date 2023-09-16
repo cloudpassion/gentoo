@@ -13,3 +13,4 @@ media-libs/libpulse dbus
 media-libs/gst-plugins-base X
 
 media-libs/libsdl2 gles2 
+media-libs/gst-plugins-bad gles2
