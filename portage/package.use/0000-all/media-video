@@ -1,2 +1,2 @@
-media-video/ffmpeg -* X alsa bzip2 dav1d encode fdk gnutls gpl iconv lzma network openssl postproc pulseaudio threads truetype zlib nvenc FFTOOLS: * ABI_X86: * CPU_FLAGS_X86: *
+media-video/ffmpeg -* X alsa bzip2 dav1d encode fdk gnutls gpl iconv lzma network openssl postproc pulseaudio threads truetype zlib nvenc librtmp libv4l opencl ssh v4l webp x264 x265 cpudetection libass srt libxml2 jpeg2k vorbis FFTOOLS: * ABI_X86: * CPU_FLAGS_X86: *
 media-video/handbrake fdk nvenc gtk x265

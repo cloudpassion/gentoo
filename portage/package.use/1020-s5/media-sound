@@ -1,1 +1,1 @@
-media-sound/pulseaudio-daemon -X
+media-sound/pulseaudio-daemon -X -aptx -bluetooth -dbus -equalizer
