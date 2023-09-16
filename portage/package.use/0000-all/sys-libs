@@ -5,3 +5,4 @@ sys-libs/talloc python
 sys-libs/tdb python 
 sys-libs/tevent python 
 sys-libs/libxcrypt system split-usr
+sys-libs/zlib minizip

@@ -4,4 +4,4 @@ net-misc/openssh X pie scp sctp
 net-misc/iperf sctp
 net-misc/dropbear -* zlib multicall shadow
 net-misc/tigervnc -* server xinerama dri3 drm opengl viewer xorgmodule
-
+net-misc/spice-gtk usbredir

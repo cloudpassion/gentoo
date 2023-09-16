@@ -1,2 +1,3 @@
 virtual/libcrypt -static-libs
+virtual/rust rustfmt
 

@@ -1,5 +1,5 @@
 app-editors/vim X perl -debug lua -minimal python ruby tcl terminal racket LUA_SINGLE_TARGET: -* luajit
-app-editors/gvim acl crypt -minimal lua motif netbeans perl python racket ruby tcl LUA_SINGLE_TARGET: luajit 
+app-editors/gvim acl crypt -minimal lua motif netbeans perl python racket ruby tcl LUA_SINGLE_TARGET: -* luajit 
 app-editors/nano -minimal magic
 app-editors/vim-core -minimal
 
