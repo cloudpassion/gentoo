@@ -1,2 +1,2 @@
-net-libs/gnutls tls-heartbeat tools pkcs11
+net-libs/gnutls tls-heartbeat tools pkcs11 sslv2 sslv3
 net-libs/libssh sftp

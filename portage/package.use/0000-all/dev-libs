@@ -3,10 +3,12 @@ dev-libs/libpcre2 pcre32 pcre16 recursion-limit jit
 dev-libs/apr-util
 dev-libs/libverto libev
 dev-libs/boost threads nls
-dev-libs/openssl sctp 
+dev-libs/openssl sctp rfc3779
 dev-libs/libxml2 python
 dev-libs/nss cacert utils
 
 dev-libs/libgcrypt static-libs
 dev-libs/libgpg-error static-libs
 dev-libs/lzo static-libs
+
+
