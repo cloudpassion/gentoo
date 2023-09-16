@@ -1,0 +1,2 @@
+net-wireless/wpa_supplicant crda dbus fils hs2-0 mbo mesh readline ap p2p tdls tkip wep wps
+net-wireless/bluez mesh obex readline udev btpclient cups deprecated experimental extra-tools

@@ -1,7 +1,7 @@
 media-libs/libglvnd X
 media-libs/mesa X
 media-libs/libepoxy X
-media-libs/mesa X gles2 -llvm proprietary-codecs zstd xa classic dri3
+media-libs/mesa X gles2 -llvm proprietary-codecs zstd xa classic dri3 lm-sensors
 media-libs/freetype X cleartype_hinting harfbuzz png
 
 #media-libs/mesa -gbm -egl -gles2 -llvm classic dri3
@@ -10,3 +10,5 @@ media-libs/freetype X cleartype_hinting harfbuzz png
 
 media-libs/vips exif -fftw -fits imagemagick jpeg png -svg tiff webp
 media-libs/libvpx postproc
+media-libs/libpulse dbus
+media-libs/gst-plugins-base X

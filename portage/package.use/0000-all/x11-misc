@@ -1,1 +1,2 @@
 x11-misc/py3status -minimal
+x11-misc/x11vnc fbcon
