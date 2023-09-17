@@ -1,4 +1,4 @@
-net-analyzer/wireshark zlib plugins http2 libxml2 wifi sshdump tfshark lua
+net-analyzer/wireshark zlib plugins http2 libxml2 wifi sshdump tfshark lua LUA_SINGLE_TARGET: lua5-1
 
 net-analyzer/tcpdump samba smi
 net-analyzer/nmap libssh2 ncat nping nse LUA_SINGLE_TARGET: lua5-3

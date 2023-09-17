@@ -6,3 +6,6 @@ sys-libs/tdb python
 sys-libs/tevent python 
 sys-libs/libxcrypt system split-usr
 sys-libs/zlib minizip
+
+sys-libs/compiler-rt clang
+sys-libs/compiler-rt-sanitizers asan cfi clang dfsan gwp-asan hwasan libfuzzer lsan memprof msan orc profile safestack scudo tsan ubsan xray
