@@ -1,2 +1,3 @@
 net-proxy/privoxy brotli client-tags compression editor extended-host-patterns extended-statistics external-filters -fuzz graceful-termination -lfs -mbedtls png-images -sanitize toggle tools whitelists
 net-proxy/dante upnp
+net-proxy/squid caps htcp mysql pam postgres sqlite ssl wccp wccpv2 ecap esi logrotate nis perl qos snmp tproxy
