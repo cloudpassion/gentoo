@@ -3,4 +3,7 @@
 dev-libs/gobject-introspection ~amd64
 dev-libs/nettle ~amd64
 dev-libs/openssl ~amd64
+dev-libs/glib ~amd64
+dev-libs/gobject-introspection-common ~amd64
+
 
