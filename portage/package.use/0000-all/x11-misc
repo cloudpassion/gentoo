@@ -1,2 +1,4 @@
 x11-misc/py3status -minimal
 x11-misc/x11vnc fbcon
+x11-misc/sddm elogind
+x11-misc/lightdm elogind -introspection
