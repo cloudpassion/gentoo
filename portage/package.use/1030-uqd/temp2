@@ -1,0 +1,12 @@
+>=net-dns/bind-tools-9.18.0 -gssapi
+dev-libs/jemalloc stats
+dev-lang/ruby -socks5
+
+media-video/ffmpeg codec2 drm flite lame opus sndio 
+
+# required by www-client/chromium-140.0.7339.127::gentoo
+# required by chromium (argument)
+=net-libs/nodejs-22.19.0 ~amd64
+
+media-video/wireplumber LUA_SINGLE_TARGET: -* lua5-4
+

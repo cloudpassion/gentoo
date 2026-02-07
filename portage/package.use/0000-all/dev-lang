@@ -1,3 +1,4 @@
 dev-lang/rust rustfmt
 dev-lang/gnat-gpl objc objc++ objc-gc rust
-dev-lang/python:3.8 -* ensurepip ncurses readline sqlite ssl tk xml
+dev-lang/python -* ensurepip ncurses readline sqlite ssl tk xml
+dev-lang/perl minimal

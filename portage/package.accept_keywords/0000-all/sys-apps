@@ -1,2 +1,4 @@
 sys-apps/portage ~amd64
+sys-apps/vgpu_unlock-rs **
+sys-apps/mdevctl **
 

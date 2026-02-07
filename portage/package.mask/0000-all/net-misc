@@ -1,2 +1,4 @@
->net-misc/tigervnc-1.12.0-r99
->net-misc/tigervnc-xorg-module-1.12.0-r99
+>net-misc/tigervnc-1.15.90-r99
+<net-misc/tigervnc-1.15.90-r99
+
+>net-misc/tigervnc-xorg-module-1.15.0-r99

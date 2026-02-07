@@ -14,3 +14,21 @@ www-client/google-chrome-unstable google-chrome
 x11-drivers/nvidia-drivers NVIDIA-r2
 
 dev-db/oracle-instantclient OTN
+
+sys-block/megacli LSI
+sys-block/storcli Avago LSI
+sys-block/sas3ircu LSI
+
+# temp
+>=www-client/opera-105.0.4970.34 OPERA-2018
+# required by vivaldi (argument)
+=www-client/vivaldi-6.4.3160.44 Vivaldi
+
+>=media-fonts/freefonts-0.10-r4 all-rights-reserved free-noncomm freedist
+
+=sys-firmware/intel-microcode-20240312_p20240312 intel-ucode
+
+net-analyzer/speedtest Ookla
+
+media-video/ffmpeg all-rights-reserved
+media-libs/libva-intel-media-driver no-source-code

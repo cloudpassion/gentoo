@@ -1,2 +1,6 @@
 sys-devel/binutils -cet
-sys-devel/gcc -cet
+
+sys-devel/gcc -pie -default-znow -default-stack-clash-protection -cxx -cet
+
+sys-devel/clang -pie 
+

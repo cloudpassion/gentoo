@@ -1,2 +1,2 @@
-sys-auth/pambase nullok sha512 mktemp
+sys-auth/pambase nullok sha512 mktemp elogind
 sys-auth/pam_mktemp prevent-removal

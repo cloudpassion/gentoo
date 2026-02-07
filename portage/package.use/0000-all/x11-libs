@@ -1,3 +1,9 @@
 x11-libs/libxcb xcb
 x11-libs/cairo X aqua
 x11-libs/libfm gtk
+x11-libs/libxkbcommon X
+x11-libs/pango X introspection
+x11-libs/gtk+ X introspection
+x11-libs/vte introspection
+x11-libs/gdk-pixbuf introspection
+x11-libs/gtksourceview introspection

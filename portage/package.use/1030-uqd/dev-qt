@@ -1,0 +1,4 @@
+dev-qt/qtbase wayland opengl
+dev-qt/qttools opengl
+dev-qt/qtgui X
+dev-qt/qtmultimedia opengl

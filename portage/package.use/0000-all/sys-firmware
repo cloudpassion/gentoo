@@ -1,3 +1,2 @@
 sys-firmware/ipxe efi
-#sys-firmware/edk2-ovmf-bin secureboot
-
+sys-firmware/edk2-ovmf secureboot

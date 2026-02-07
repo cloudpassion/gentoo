@@ -1,0 +1,13 @@
+UQD_USE1="X minimal alsa pulseaudio nvenc xinerama"
+UQD_USE2="vaapi vdpau vulkan bluetooth dbus wayland opengl opencl"
+UQD_DB_USE="" #postgres sqlite odbc freetds mysql oci8"
+
+UQD_EXCLUDE1="-systemd"
+UQD_EXCLUDE2=""
+UQD_EXCLUDE3=""
+
+UQD_EXCLUDE="${UQD_EXCLUDE1} ${UQD_EXCLUDE2} ${UQD_EXCLUDE3}"
+
+UQD_USE="${UQD_EXCLUDE} ${UQD_USE1} ${UQD_USE2} ${UQD_DB_USE}"
+
+

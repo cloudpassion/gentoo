@@ -1,4 +1,5 @@
 app-emulation/qemu ~amd64
+app-emulation/qemu-win ~amd64
 app-emulation/libvirt ~amd64
 app-emulation/virt-manager ~amd64
 app-emulation/libvirt-glib ~amd64

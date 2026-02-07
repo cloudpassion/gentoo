@@ -1,2 +1,2 @@
-app-admin/sudo -sendmail
 app-admin/sysklogd logrotate
+app-admin/rsyslog usertools

@@ -1,1 +1,3 @@
 sys-block/parted device-mapper
+sys-block/fio aio io-uring pandas python zbc
+sys-block/partclone e2fs exfat fat fuse ntfs # -f2fs -hfs -jfs -minix -nilfs2 -reiser4 -reiserfs -static -ufs -vmfs -xfs -apfs -btrfs

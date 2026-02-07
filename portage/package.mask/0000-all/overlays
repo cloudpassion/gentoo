@@ -9,7 +9,7 @@
 */*::gentoo-zh
 */*::holgersson-overlay
 */*::inode64-overlay
-*/*::jorgicio
+#*/*::jorgicio
 */*::maggu2810-overlay
 */*::menelkir
 */*::metadata

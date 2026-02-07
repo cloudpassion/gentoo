@@ -1,1 +1,1 @@
-mail-client/thunderbird -clang hwaccel libproxy
+mail-client/thunderbird -clang hwaccel libproxy X

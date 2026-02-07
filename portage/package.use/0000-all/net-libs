@@ -1,3 +1,5 @@
 net-libs/gnutls tls-heartbeat tools pkcs11 sslv2 sslv3
 net-libs/libssh sftp
 net-libs/libtorrent-rasterbar python
+net-libs/libvncserver -filetransfer threads
+net-libs/gtk-vnc -wayland introspection

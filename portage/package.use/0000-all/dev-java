@@ -1,1 +1,1 @@
->=dev-java/java-config-2.3.1-r1 -python_targets_python3_11
+#dev-java/java-config -python_targets_python3_11 -python_targets_python3_12

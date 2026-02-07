@@ -1,0 +1,2 @@
+gui-libs/gtk X
+gui-libs/wlroots x11-backend liftoff tinywl xcb-errors

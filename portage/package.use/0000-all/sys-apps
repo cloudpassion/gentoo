@@ -12,3 +12,5 @@ sys-apps/util-linux -su magic
 sys-apps/texinfo -standalone
 sys-apps/systemd pkcs11
 sys-apps/iproute2 -minimal
+
+sys-apps/vgpu_unlock-rs debug

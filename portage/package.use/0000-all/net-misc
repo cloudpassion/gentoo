@@ -4,6 +4,6 @@ net-misc/openssh X pie scp sctp security-key xmss
 net-misc/iperf sctp
 net-misc/dropbear -* zlib multicall shadow
 net-misc/tigervnc -* server xinerama dri3 drm opengl viewer xorgmodule
-net-misc/spice-gtk usbredir
+net-misc/spice-gtk usbredir introspection
 net-misc/networkmanager -* gnutls
 #-1.42.6-r2::gentoo  USE="concheck introspection iptables modemmanager nss policykit ppp wext wifi -audit -bluetooth -connection-sharing -debug -dhclient -dhcpcd -elogind -gnutls -gtk-doc -iwd -libedit -lto -nftables -ofono -ovs -psl -resolvconf (-selinux) -syslog -systemd -teamd -test -tools -vala"

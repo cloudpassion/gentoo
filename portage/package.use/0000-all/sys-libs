@@ -9,3 +9,5 @@ sys-libs/zlib minizip
 
 sys-libs/compiler-rt clang
 sys-libs/compiler-rt-sanitizers asan cfi clang dfsan gwp-asan hwasan libfuzzer lsan memprof msan orc profile safestack scudo tsan ubsan xray
+
+sys-libs/libosinfo introspection
