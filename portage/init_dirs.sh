@@ -10,4 +10,4 @@ mkdir package.license
 #mkdir env
 mkdir package.env
 
-mkdir profile
+#mkdir profile
