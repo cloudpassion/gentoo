@@ -1,4 +1,5 @@
-media-video/ffmpeg -* X alsa bzip2 dav1d encode opus fdk gnutls gpl iconv lzma network openssl postproc pulseaudio threads truetype zlib nvenc librtmp libv4l ssh v4l webp x264 x265 cpudetection libass srt libxml2 jpeg2k vorbis FFTOOLS: * 
+media-video/ffmpeg -*
+#X alsa bzip2 dav1d encode opus fdk gnutls gpl iconv lzma network openssl postproc pulseaudio threads truetype zlib nvenc librtmp libv4l ssh v4l webp x264 x265 cpudetection libass srt libxml2 jpeg2k vorbis drm FFTOOLS: * 
 media-video/handbrake fdk nvenc gtk x265
 
 media-video/wireplumber elogind LUA_SINGLE_TARGET: -* lua5-4

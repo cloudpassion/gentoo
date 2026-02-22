@@ -1,6 +1,6 @@
 sys-fs/eudev -hwdb kmod
 
-sys-fs/lvm2 thin lvm2create_initrd lvm
+sys-fs/lvm2 thin lvm2create_initrd lvm readline
 
 sys-fs/cryptsetup ssh
 

@@ -9,5 +9,6 @@ mkdir package.license
 
 #mkdir env
 mkdir package.env
+mkdir package.cflags
 
 #mkdir profile

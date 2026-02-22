@@ -1,1 +1,3 @@
-www-client/w3m X ssl unicode fbcon
+www-client/w3m -*
+www-client/firefox-bin -*
+#X ssl unicode fbcon

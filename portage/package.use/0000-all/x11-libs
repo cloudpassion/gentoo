@@ -1,5 +1,5 @@
 x11-libs/libxcb xcb
-x11-libs/cairo X aqua
+x11-libs/cairo X
 x11-libs/libfm gtk
 x11-libs/libxkbcommon X
 x11-libs/pango X introspection

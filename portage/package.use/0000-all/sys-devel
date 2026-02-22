@@ -1,5 +1,8 @@
-sys-devel/binutils multitarget plugins
-sys-devel/gcc -fortran -objc -objc-gc -vtv -graphite -objc++ -openmp -pch -sanitize -ssp nptl go -default-stack-clash-protection -default-znow -go
+sys-devel/binutils multitarget plugins -cet
+
+sys-devel/gcc -* openmp zstd
+#-fortran -objc -objc-gc -vtv -graphite -objc++ -pch -sanitize -ssp -default-stack-clash-protection -default-znow -go
+
 sys-devel/llvm binutils-plugin libffi ncurses xml
 
 sys-devel/clang-runtime compiler-rt openmp sanitize

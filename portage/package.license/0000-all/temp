@@ -32,3 +32,39 @@ net-analyzer/speedtest Ookla
 
 media-video/ffmpeg all-rights-reserved
 media-libs/libva-intel-media-driver no-source-code
+
+dev-db/mongodb SSPL-1
+app-arch/p7zip unRAR
+
+dev-util/intel-ocl-sdk Intel-SDP
+dev-util/nvidia-cuda-toolkit NVIDIA-CUDA
+net-wireless/broadcom-sta Broadcom
+sys-firmware/nvidia-firmware NVIDIA-r2
+sys-firmware/b43-firmware Broadcom
+sys-firmware/ipw2200-firmware ipw2200-fw
+sys-kernel/linux-firmware linux-fw-redistributable
+www-client/google-chrome google-chrome
+www-client/google-chrome-beta google-chrome
+www-client/google-chrome-unstable google-chrome
+x11-drivers/nvidia-drivers NVIDIA-r2
+
+dev-db/oracle-instantclient OTN
+
+sys-block/megacli LSI
+sys-block/storcli Avago LSI
+sys-block/sas3ircu LSI
+
+# temp
+>=www-client/opera-105.0.4970.34 OPERA-2018
+# required by vivaldi (argument)
+=www-client/vivaldi-6.4.3160.44 Vivaldi
+
+>=media-fonts/freefonts-0.10-r4 all-rights-reserved free-noncomm freedist
+
+=sys-firmware/intel-microcode-20240312_p20240312 intel-ucode
+
+net-analyzer/speedtest Ookla
+
+media-video/ffmpeg all-rights-reserved
+media-libs/libva-intel-media-driver no-source-code
+

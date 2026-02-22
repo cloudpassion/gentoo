@@ -1,2 +1,6 @@
 -system-wide
 -mariadb
+-custom-cflags
+-vanilla
+
+-cpu_flags_x86_mmx

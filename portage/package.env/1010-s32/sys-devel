@@ -1,0 +1,2 @@
+
+sys-devel/gcc sec/nohard_gcc.conf sec/disable_relro.conf

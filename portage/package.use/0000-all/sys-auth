@@ -1,2 +1,5 @@
 sys-auth/pambase nullok sha512 mktemp elogind
+
 sys-auth/pam_mktemp prevent-removal
+
+sys-auth/polkit introspection

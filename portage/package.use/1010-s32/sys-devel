@@ -1,0 +1,10 @@
+
+sys-devel/gcc:10 ada d cxx cobol rust modula2 vanilla fortran objc objc-gc objc++ pch go custom-cflags jit pch
+
+sys-devel/gcc ada d cxx cobol rust modula2 vanilla fortran objc objc-gc objc++ pch go custom-cflags jit pch
+
+# extra
+#sys-devel/gcc graphite libdiagnostics 
+
+# +debug
+#sys-devel/gcc systemtap sanitize 

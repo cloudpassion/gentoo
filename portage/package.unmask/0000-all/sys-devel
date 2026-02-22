@@ -1,0 +1,14 @@
+sys-devel/binutils:2.40
+sys-devel/binutils:2.41
+sys-devel/binutils:2.42
+sys-devel/binutils:2.43
+sys-devel/binutils:2.44
+sys-devel/binutils:2.45
+
+
+sys-devel/gcc:10
+sys-devel/gcc:11
+sys-devel/gcc:12
+sys-devel/gcc:13
+sys-devel/gcc:14
+sys-devel/gcc:15

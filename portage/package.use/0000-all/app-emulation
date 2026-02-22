@@ -1,10 +1,11 @@
-app-emulation/qemu alsa fuse gtk io-uring iscsi multipath nfs opengl plugins pulseaudio python spice ssh usb usbredir vde virgl virtfs vte pipewire QEMU_SOFTMMU_TARGETS: * QEMU_USER_TARGETS: *
-app-emulation/libvirt fuse libssh libssh2 nfs iscsi parted pcap -wireshark-plugins lvm lxc
+app-emulation/qemu alsa fuse gtk io-uring iscsi multipath nfs opengl plugins pulseaudio python spice ssh usb usbredir vde virgl udev virtfs vte pipewire bpf keyutils lzo numa zstd sdl QEMU_SOFTMMU_TARGETS: * QEMU_USER_TARGETS: *
 
-app-emulation/virt-manager gui
+app-emulation/libvirt fuse libssh libssh2 nfs iscsi parted pcap -wireshark-plugins lvm lxc nbd nfs numa parted policykit virtiofsd
+
+app-emulation/virt-manager gui policykit
 
 app-emulation/qemu-win python alsa fuse gtk io-uring iscsi multipath nfs opengl plugins pulseaudio spice ssh usb usbredir vde virgl virtfs vte QEMU_SOFTMMU_TARGETS: -* i386 x86_64 QEMU_USER_TARGETS: -* i386 x86_64
-#PYTHON_TARGETS: -*
+
 app-emulation/libvirt-glib introspection
 
 app-emulation/libguestfs libvirt lua python ruby # LUA_SINGLE_TARGET: lua5-1 PYTHON_SINGLE_TARGET: python3_10

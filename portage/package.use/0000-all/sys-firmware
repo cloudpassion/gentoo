@@ -1,2 +1,3 @@
 sys-firmware/ipxe efi
 sys-firmware/edk2-ovmf secureboot
+sys-firmware/intel-microcode initramfs

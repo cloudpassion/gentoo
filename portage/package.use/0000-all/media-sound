@@ -1,1 +1,2 @@
 media-sound/pulseaudio-daemon dbus bluetooth alsa alsa-plugin asyncns glib orc ssl webrtc-aec lirc aptx equalizer sox tcpd
+media-sound/lame -*

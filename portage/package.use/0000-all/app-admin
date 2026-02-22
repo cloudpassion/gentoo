@@ -1,2 +1,3 @@
 app-admin/sysklogd logrotate
 app-admin/rsyslog usertools
+app-admin/keepassxc X

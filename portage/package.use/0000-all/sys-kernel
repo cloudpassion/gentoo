@@ -1,1 +1,8 @@
-#sys-kernel/linux-headers headers-only
+sys-kernel/linux-headers headers-only
+
+sys-kernel/gentoo-kernel -*
+sys-kernel/gentoo-kernel-bin -*
+
+sys-kernel/linux-firmware unknown-license redistributable 
+
+sys-kernel/dracut dracut-cpio

@@ -1,1 +1,1 @@
-x11-base/xorg-server xorg -minimal xephyr xvfb xcsecurity xnest
+x11-base/xorg-server xorg -minimal xephyr xvfb xcsecurity xnest elogind suid

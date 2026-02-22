@@ -1,0 +1,15 @@
+#sys-devel/gcc one_core.conf
+sys-devel/clang one_core.conf
+
+llvm-core/llvm one_core.conf
+llvm-core/clang one_core.conf
+
+app-text/doxygen low_cores.conf
+app-emulation/qemu low_cores.conf
+
+dev-util/spirv-llvm-translator low_cores.conf
+
+dev-build/cmake low_cores.conf
+
+# 
+dev-util/spirv-tools low_cores.conf

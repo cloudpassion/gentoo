@@ -1,3 +1,7 @@
-sys-process/procps ncurses kill
+sys-process/procps ncurses -kill elogind
 sys-process/tini static
+
+sys-process/cronie -anacron
+
+sys-process/fcron -mta readline system-crontab
 

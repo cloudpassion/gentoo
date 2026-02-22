@@ -1,2 +1,3 @@
 dev-scheme/guile regex
-dev-scheme/racket threads
+
+dev-scheme/racket -* chez places futures jit threads threads minimal

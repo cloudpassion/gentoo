@@ -1,3 +1,11 @@
 -*sys-apps/man-pages
 -*virtual/man
+-*net-mail/mailbase
 #-*sys-process/procps
+#
+
+#sys-kernel/gentoo-sources:6.1.161-r99
+#sys-kernel/gentoo-sources:6.18.4-r99
+
+sys-kernel/gentoo-kernel-bin:6.1.161
+sys-kernel/gentoo-kernel-bin:6.18.4
