@@ -1,0 +1,1 @@
+/exm/fs/build/kernel/gentoo/6.18.4/6.18.4-q64/build/.tmp_vmlinux2.kallsyms.S
